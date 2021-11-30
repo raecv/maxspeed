@@ -1,9 +1,12 @@
 Package: maxspeed
-Title: What the Package Does (One Line, Title Case)
+Title: Replicating Figure 2a from Hirt et al. (2017)
 Version: 0.0.0.9000
 Authors@R:
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Raeline", "Valbuena", "raebobae95@gmail.com",
+    role = c("aut", "cre"))
+Description: Replicating Figure 2a from Hirt et al. (2017). It uses custom
+functions to generate this figure in R Markdown.
+URL: https://github.com/raecv/maxspeed
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
